@@ -1,0 +1,19 @@
+[
+	{
+		"name": "book",
+		"type": "book",
+		"quantity": "2",
+		"price": "12.49"
+	},
+	{
+		"name": "music CD",
+		"quantity": "1",
+		"price": "14.99"
+	},
+	{
+		"name": "chocolate bar",
+		"type": "food",
+		"quantity": "1",
+		"price": "0.85"
+	}
+]

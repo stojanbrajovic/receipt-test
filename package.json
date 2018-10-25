@@ -1,0 +1,14 @@
+{
+	"name": "receipt-reader",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"scripts": {
+		"test": "node ./src/main.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"del": "^3.0.0"
+	}
+}
